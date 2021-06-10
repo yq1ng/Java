@@ -3,8 +3,8 @@
 Java安全学习之路（从小白到放弃）  
 从0开始的Java安全，希望能坚持下去~  
 
-博客地址：https://yq1ng.github.io/
-CSDN（简介更新）：https://blog.csdn.net/weixin_43578492
+博客地址：https://yq1ng.github.io/  
+CSDN间断更新）：https://blog.csdn.net/weixin_43578492
 
 为了方便，项目源码与所用工具都尽量上传了  
 
